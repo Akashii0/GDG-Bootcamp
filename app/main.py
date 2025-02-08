@@ -17,6 +17,7 @@ def cal(
     operation: str,
 ):
     operation = operation.lower()
+
     try:
         if operation == "add":
             return {"result is: ": f"{calculator.Add(num1, num2)}"}
