@@ -50,5 +50,5 @@ class Calculator():
 # Description: A simple calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 
-calculator = Calculator()
-calculator.main()
+# calculator = Calculator()
+# calculator.main()
